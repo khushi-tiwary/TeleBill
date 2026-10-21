@@ -4,12 +4,12 @@ A program for managing prepaid mobile customers, recharges, and usage. It suppor
 
 ### Sample Inputs
 
--Customer name: Asha
--MObile number: 9876543210
--Recharge amount: 500
--Call duartion: 10 minutes
--SMS count: 5
--Data usage: 100 MB
+- Customer name: Asha
+- MObile number: 9876543210
+- Recharge amount: 500
+- Call duartion: 10 minutes
+- SMS count: 5
+- Data usage: 100 MB
 
 ## Build 
 ```bash
