@@ -1,0 +1,15 @@
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/bin/Debug/net10.0/PrepaidRechargeCalculator
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/bin/Debug/net10.0/PrepaidRechargeCalculator.deps.json
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/bin/Debug/net10.0/PrepaidRechargeCalculator.runtimeconfig.json
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/bin/Debug/net10.0/PrepaidRechargeCalculator.dll
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/bin/Debug/net10.0/PrepaidRechargeCalculator.pdb
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.AssemblyInfoInputs.cache
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.AssemblyInfo.cs
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.sourcelink.json
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.dll
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/refint/PrepaidRechargeCalculator.dll
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.pdb
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/PrepaidRechargeCalculator.genruntimeconfig.cache
+/workspaces/dotnet-training-assignments/week-01/PrepaidRechargeCalculator/obj/Debug/net10.0/ref/PrepaidRechargeCalculator.dll
