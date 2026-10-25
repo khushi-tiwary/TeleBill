@@ -15,14 +15,14 @@ public IRatingRule SmsRule {get; }
 public IRatingRule DataRule {get; }
 
 public TariffPlan (string code, string name, decimal monthlyRental, IRatingRule callRule, 
-IRatingRulesmsRule, IRatingRule dataRule)
+IRatingRule smsRule, IRatingRule dataRule)
 {
 if(string.IsNullOrWhiteSpace(code))
-throw.new ArgumentException("Plan code is required");
+throw new ArgumentException("Plan code is required");
 if(string.IsNullOrWhiteSpace(name))
-throw.new ArgumentException("Plan name is required");
+throw new ArgumentException("Plan name is required");
 if(monthlyRental < 0)
-throw.new ArgumentException("Monthly rentalcannot be negative");
+throw new ArgumentException("Monthly rentalcannot be negative");
 
 Code= code.Trim().ToUpper(); // cleans the input "basic99" to "BASIC99"
 Name=name.Trim();

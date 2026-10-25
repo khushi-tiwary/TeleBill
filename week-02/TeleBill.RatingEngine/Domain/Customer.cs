@@ -6,7 +6,7 @@ public string MobileNumber {get; }// unique id of the customer never changes
 public string Name {get; }
 
 //constructor checks the number and name first
-public Customer (string MobileNumber, string name){
+public Customer (string mobileNumber, string name){
     if(!IsValidMobile(mobileNumber))
     throw new ArgumentException($"Invalid mobile number: {mobileNumber}");// If either is bad, it throws, and the customer is never created.
     if(string.IsNullOrWhiteSpace(name))
